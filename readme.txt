@@ -9,3 +9,4 @@ Learn “git add” and options
 Learn “git commit”
 Publish the repository
 Learn “git push”..
+Clone a repository..
