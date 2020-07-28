@@ -8,3 +8,4 @@ Learn “git status” and options
 Learn “git add” and options
 Learn “git commit”
 Publish the repository
+Learn “git push”..
