@@ -9,3 +9,6 @@ Learn “git add” and options
 Learn “git commit”
 Publish the repository
 Learn “git push”..
+Using mentor, create merge conflict
+Pull the latest
+Resolve merge conflicts
