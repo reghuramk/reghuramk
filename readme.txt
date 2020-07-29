@@ -11,3 +11,4 @@ Publish the repository
 Learn “git push”..
 Clone a repository..
 Create a branch
+Make changes and push the changes
